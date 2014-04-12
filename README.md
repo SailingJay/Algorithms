@@ -1,0 +1,4 @@
+Algorithms
+==========
+
+Standard algorithm implementations
